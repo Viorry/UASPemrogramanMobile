@@ -60,8 +60,11 @@ Source Code:
 
 Petunjuk instalasi project
 Buka link : https://github.com/Viorry/UASPemrogramanMobile
+
 Download file-nya
+
 Ekstrak file
+
 Buka file menggunakan aplikasi yang biasa digunakan
 
 
